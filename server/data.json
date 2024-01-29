@@ -1,0 +1,502 @@
+[
+  {
+    "id": "1",
+    "productName": "Smartphone",
+    "description": "A powerful smartphone with advanced features and high-resolution camera.",
+    "originalRate": 599.99,
+    "sellingRate": 499.99,
+    "imageURL": "",
+    "quantity": 50,
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "productName": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation for an immersive audio experience.",
+    "originalRate": 129.99,
+    "sellingRate": 99.99,
+    "imageURL": "",
+    "quantity": 30,
+    "rating": 4.0
+  },
+  {
+    "id": "3",
+    "productName": "Laptop",
+    "description": "Thin and lightweight laptop with a powerful processor and long-lasting battery.",
+    "originalRate": 899.99,
+    "sellingRate": 799.99,
+    "imageURL": "",
+    "quantity": 20,
+    "rating": 4.7
+  },
+  {
+    "id": "4",
+    "productName": "Fitness Tracker",
+    "description": "Track your fitness goals with this smart fitness tracker featuring heart rate monitoring and GPS.",
+    "originalRate": 79.99,
+    "sellingRate": 59.99,
+    "imageURL": "",
+    "quantity": 40,
+    "rating": 4.2
+  },
+  {
+    "id": "5",
+    "productName": "4K Smart TV",
+    "description": "Enjoy stunning visuals with this 4K Smart TV equipped with smart features and multiple HDMI ports.",
+    "originalRate": 699.99,
+    "sellingRate": 599.99,
+    "imageURL": "",
+    "quantity": 15,
+    "rating": 4.6
+  },
+  {
+    "id": "6",
+    "productName": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with high-fidelity sound and waterproof design.",
+    "originalRate": 49.99,
+    "sellingRate": 39.99,
+    "imageURL": "",
+    "quantity": 25,
+    "rating": 4.3
+  },
+  {
+    "id": "7",
+    "productName": "Digital Camera",
+    "description": "Capture memorable moments with this high-resolution digital camera with optical zoom.",
+    "originalRate": 299.99,
+    "sellingRate": 249.99,
+    "imageURL": "",
+    "quantity": 10,
+    "rating": 4.8
+  },
+  {
+    "id": "8",
+    "productName": "Gaming Laptop",
+    "description": "Powerful gaming laptop with dedicated graphics card and customizable RGB keyboard.",
+    "originalRate": 1299.99,
+    "sellingRate": 1099.99,
+    "imageURL": "",
+    "quantity": 12,
+    "rating": 4.5
+  },
+  {
+    "id": "9",
+    "productName": "Coffee Maker",
+    "description": "A sleek coffee maker with programmable settings for the perfect cup of coffee every time.",
+    "originalRate": 79.99,
+    "sellingRate": 59.99,
+    "imageURL": "",
+    "quantity": 20,
+    "rating": 4.2
+  },
+  {
+    "id": "10",
+    "productName": "Smart Watch",
+    "description": "Stay connected and track your health with this feature-packed smartwatch.",
+    "originalRate": 149.99,
+    "sellingRate": 129.99,
+    "imageURL": "",
+    "quantity": 35,
+    "rating": 4.1
+  },
+  {
+    "id": "11",
+    "productName": "Noise-Canceling Earbuds",
+    "description": "Immerse yourself in music with these comfortable noise-canceling earbuds.",
+    "originalRate": 89.99,
+    "sellingRate": 69.99,
+    "imageURL": "",
+    "quantity": 28,
+    "rating": 4.4
+  },
+  {
+    "id": "12",
+    "productName": "Robot Vacuum Cleaner",
+    "description": "Effortlessly keep your home clean with this intelligent robot vacuum cleaner.",
+    "originalRate": 199.99,
+    "sellingRate": 169.99,
+    "imageURL": "",
+    "quantity": 15,
+    "rating": 4.6
+  },
+  {
+    "id": "13",
+    "productName": "Drones with HD Camera",
+    "description": "Capture stunning aerial footage with this HD camera-equipped drone.",
+    "originalRate": 249.99,
+    "sellingRate": 199.99,
+    "imageURL": "",
+    "quantity": 18,
+    "rating": 4.2
+  },
+  {
+    "id": "14",
+    "productName": "External Hard Drive",
+    "description": "Expand your storage with this high-capacity external hard drive for all your files.",
+    "originalRate": 79.99,
+    "sellingRate": 59.99,
+    "imageURL": "",
+    "quantity": 22,
+    "rating": 4.0
+  },
+  {
+    "id": "15",
+    "productName": "Portable Power Bank",
+    "description": "Stay charged on the go with this portable power bank for smartphones and other devices.",
+    "originalRate": 29.99,
+    "sellingRate": 19.99,
+    "imageURL": "",
+    "quantity": 50,
+    "rating": 4.3
+  },
+  {
+    "id": "16",
+    "productName": "Smart Thermostat",
+    "description": "Control your home's temperature with this smart thermostat featuring energy-saving features.",
+    "originalRate": 129.99,
+    "sellingRate": 99.99,
+    "imageURL": "",
+    "quantity": 18,
+    "rating": 4.7
+  },
+  {
+    "id": "17",
+    "productName": "Gaming Mouse",
+    "description": "Gain a competitive edge with this high-performance gaming mouse with customizable buttons.",
+    "originalRate": 49.99,
+    "sellingRate": 39.99,
+    "imageURL": "",
+    "quantity": 25,
+    "rating": 4.4
+  },
+  {
+    "id": "18",
+    "productName": "Wireless Charging Pad",
+    "description": "Charge your compatible devices wirelessly with this sleek and compact charging pad.",
+    "originalRate": 19.99,
+    "sellingRate": 14.99,
+    "imageURL": "",
+    "quantity": 40,
+    "rating": 4.1
+  },
+  {
+    "id": "19",
+    "productName": "Bluetooth Keyboard",
+    "description": "Enhance your productivity with this wireless Bluetooth keyboard for tablets and laptops.",
+    "originalRate": 39.99,
+    "sellingRate": 29.99,
+    "imageURL": "",
+    "quantity": 30,
+    "rating": 4.5
+  },
+  {
+    "id": "20",
+    "productName": "Digital Drawing Tablet",
+    "description": "Unleash your creativity with this digital drawing tablet featuring pressure-sensitive stylus.",
+    "originalRate": 79.99,
+    "sellingRate": 59.99,
+    "imageURL": "",
+    "quantity": 15,
+    "rating": 4.6
+  },
+  {
+    "id": "21",
+    "productName": "Indoor Security Camera",
+    "description": "Keep an eye on your home with this indoor security camera featuring motion detection.",
+    "originalRate": 59.99,
+    "sellingRate": 44.99,
+    "imageURL": "",
+    "quantity": 28,
+    "rating": 4.3
+  },
+  {
+    "id": "22",
+    "productName": "Electric Toothbrush",
+    "description": "Achieve optimal oral health with this electric toothbrush with multiple brushing modes.",
+    "originalRate": 39.99,
+    "sellingRate": 29.99,
+    "imageURL": "",
+    "quantity": 35,
+    "rating": 4.2
+  },
+  {
+    "id": "23",
+    "productName": "Solar-Powered Outdoor Lights",
+    "description": "Illuminate your outdoor space with these energy-efficient solar-powered outdoor lights.",
+    "originalRate": 29.99,
+    "sellingRate": 19.99,
+    "imageURL": "",
+    "quantity": 20,
+    "rating": 4.0
+  },
+  {
+    "id": "24",
+    "productName": "Cordless Electric Kettle",
+    "description": "Boil water quickly and efficiently with this cordless electric kettle with auto shut-off.",
+    "originalRate": 29.99,
+    "sellingRate": 19.99,
+    "imageURL": "",
+    "quantity": 25,
+    "rating": 4.4
+  },
+  {
+    "id": "25",
+    "productName": "External SSD Drive",
+    "description": "Experience fast data transfer with this external SSD drive for reliable storage.",
+    "originalRate": 99.99,
+    "sellingRate": 79.99,
+    "imageURL": "",
+    "quantity": 15,
+    "rating": 4.6
+  },
+  {
+    "id": "26",
+    "productName": "Smart Doorbell",
+    "description": "Enhance home security with this smart doorbell featuring video monitoring and two-way audio.",
+    "originalRate": 149.99,
+    "sellingRate": 129.99,
+    "imageURL": "",
+    "quantity": 18,
+    "rating": 4.3
+  },
+  {
+    "id": "27",
+    "productName": "Adjustable Desk Chair",
+    "description": "Stay comfortable during long work hours with this adjustable desk chair with lumbar support.",
+    "originalRate": 89.99,
+    "sellingRate": 69.99,
+    "imageURL": "",
+    "quantity": 22,
+    "rating": 4.2
+  },
+  {
+    "id": "28",
+    "productName": "Solar-Powered Phone Charger",
+    "description": "Charge your devices on the go with this solar-powered phone charger for outdoor adventures.",
+    "originalRate": 49.99,
+    "sellingRate": 39.99,
+    "imageURL": "",
+    "quantity": 30,
+    "rating": 4.1
+  },
+  {
+    "id": "29",
+    "productName": "Smart Refrigerator",
+    "description": "Efficiently manage your groceries with this smart refrigerator featuring touchscreen controls.",
+    "originalRate": 1499.99,
+    "sellingRate": 1299.99,
+    "imageURL": "",
+    "quantity": 8,
+    "rating": 4.7
+  },
+  {
+    "id": "30",
+    "productName": "High-Pressure Shower Head",
+    "description": "Experience a spa-like shower with this high-pressure shower head with adjustable settings.",
+    "originalRate": 29.99,
+    "sellingRate": 19.99,
+    "imageURL": "",
+    "quantity": 25,
+    "rating": 4.5
+  },
+  {
+    "id": "31",
+    "productName": "Smart Home Starter Kit",
+    "description": "Begin building your smart home with this starter kit including smart bulbs and a hub.",
+    "originalRate": 99.99,
+    "sellingRate": 79.99,
+    "imageURL": "",
+    "quantity": 15,
+    "rating": 4.2
+  },
+  {
+    "id": "32",
+    "productName": "Digital Alarm Clock",
+    "description": "Wake up on time with this digital alarm clock featuring customizable alarm tones.",
+    "originalRate": 19.99,
+    "sellingRate": 14.99,
+    "imageURL": "",
+    "quantity": 40,
+    "rating": 4.0
+  },
+  {
+    "id": "33",
+    "productName": "Bluetooth Soundbar",
+    "description": "Enhance your home theater experience with this Bluetooth soundbar for immersive audio.",
+    "originalRate": 79.99,
+    "sellingRate": 59.99,
+    "imageURL": "",
+    "quantity": 20,
+    "rating": 4.6
+  },
+  {
+    "id": "34",
+    "productName": "Digital Air Fryer",
+    "description": "Cook healthier meals with this digital air fryer with adjustable temperature settings.",
+    "originalRate": 89.99,
+    "sellingRate": 69.99,
+    "imageURL": "",
+    "quantity": 25,
+    "rating": 4.3
+  },
+  {
+    "id": "35",
+    "productName": "Gaming Console",
+    "description": "Immerse yourself in gaming with this high-performance gaming console with realistic graphics.",
+    "originalRate": 349.99,
+    "sellingRate": 299.99,
+    "imageURL": "",
+    "quantity": 12,
+    "rating": 4.8
+  },
+  {
+    "id": "36",
+    "productName": "Yoga Mat",
+    "description": "Practice yoga comfortably with this non-slip and eco-friendly yoga mat.",
+    "originalRate": 29.99,
+    "sellingRate": 19.99,
+    "imageURL": "",
+    "quantity": 30,
+    "rating": 4.4
+  },
+  {
+    "id": "37",
+    "productName": "Wireless Gaming Mouse",
+    "description": "Experience precision gaming with this wireless mouse featuring customizable RGB lighting.",
+    "originalRate": 69.99,
+    "sellingRate": 49.99,
+    "imageURL": "",
+    "quantity": 18,
+    "rating": 4.5
+  },
+  {
+    "id": "38",
+    "productName": "Smart Wi-Fi Thermostat",
+    "description": "Control your home's temperature remotely with this smart Wi-Fi thermostat for energy efficiency.",
+    "originalRate": 119.99,
+    "sellingRate": 99.99,
+    "imageURL": "",
+    "quantity": 25,
+    "rating": 4.2
+  },
+  {
+    "id": "39",
+    "productName": "Bluetooth Sport Earphones",
+    "description": "Enjoy music during workouts with these Bluetooth earphones designed for active lifestyles.",
+    "originalRate": 49.99,
+    "sellingRate": 39.99,
+    "imageURL": "",
+    "quantity": 30,
+    "rating": 4.3
+  },
+  {
+    "id": "40",
+    "productName": "Foldable Electric Scooter",
+    "description": "Commute in style with this foldable electric scooter offering convenience and eco-friendly transportation.",
+    "originalRate": 299.99,
+    "sellingRate": 249.99,
+    "imageURL": "",
+    "quantity": 15,
+    "rating": 4.6
+  },
+  {
+    "id": "41",
+    "productName": "Smart Home Security System",
+    "description": "Secure your home with this comprehensive smart home security system featuring cameras and sensors.",
+    "originalRate": 199.99,
+    "sellingRate": 179.99,
+    "imageURL": "",
+    "quantity": 20,
+    "rating": 4.7
+  },
+  {
+    "id": "42",
+    "productName": "Cordless Hair Dryer",
+    "description": "Dry your hair quickly with this cordless hair dryer offering freedom of movement during styling.",
+    "originalRate": 79.99,
+    "sellingRate": 59.99,
+    "imageURL": "",
+    "quantity": 22,
+    "rating": 4.4
+  },
+  {
+    "id": "43",
+    "productName": "Smart Indoor Plant Pot",
+    "description": "Take care of your indoor plants with this smart pot that monitors soil moisture and provides care reminders.",
+    "originalRate": 39.99,
+    "sellingRate": 29.99,
+    "imageURL": "",
+    "quantity": 28,
+    "rating": 4.0
+  },
+  {
+    "id": "44",
+    "productName": "Digital Meat Thermometer",
+    "description": "Ensure perfectly cooked meals with this digital meat thermometer featuring instant temperature readings.",
+    "originalRate": 24.99,
+    "sellingRate": 14.99,
+    "imageURL": "",
+    "quantity": 35,
+    "rating": 4.2
+  },
+  {
+    "id": "45",
+    "productName": "Portable Espresso Maker",
+    "description": "Enjoy espresso on the go with this compact and portable espresso maker for coffee enthusiasts.",
+    "originalRate": 49.99,
+    "sellingRate": 39.99,
+    "imageURL": "",
+    "quantity": 18,
+    "rating": 4.5
+  },
+  {
+    "id": "46",
+    "productName": "Smart Mirror",
+    "description": "Upgrade your morning routine with this smart mirror that displays weather, news, and fitness data.",
+    "originalRate": 179.99,
+    "sellingRate": 149.99,
+    "imageURL": "",
+    "quantity": 15,
+    "rating": 4.6
+  },
+  {
+    "id": "47",
+    "productName": "Wireless Charging Mouse Pad",
+    "description": "Charge your smartphone wirelessly while working with this multifunctional wireless charging mouse pad.",
+    "originalRate": 29.99,
+    "sellingRate": 19.99,
+    "imageURL": "",
+    "quantity": 25,
+    "rating": 4.3
+  },
+  {
+    "id": "48",
+    "productName": "Smart Pet Feeder",
+    "description": "Take care of your pets remotely with this smart pet feeder that dispenses food on schedule.",
+    "originalRate": 89.99,
+    "sellingRate": 69.99,
+    "imageURL": "",
+    "quantity": 22,
+    "rating": 4.1
+  },
+  {
+    "id": "49",
+    "productName": "Foldable Electric Bike",
+    "description": "Combine convenience and eco-friendly transportation with this foldable electric bike for urban commuting.",
+    "originalRate": 499.99,
+    "sellingRate": 449.99,
+    "imageURL": "",
+    "quantity": 20,
+    "rating": 4.5
+  },
+  {
+    "id": "50",
+    "productName": "Smart Water Bottle",
+    "description": "Stay hydrated with this smart water bottle that reminds you to drink water and tracks your daily intake.",
+    "originalRate": 34.99,
+    "sellingRate": 24.99,
+    "imageURL": "",
+    "quantity": 30,
+    "rating": 4.2
+  }
+]

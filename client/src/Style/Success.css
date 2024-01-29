@@ -1,0 +1,29 @@
+/* Success.css */
+
+.success-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(72, 205, 205);
+  color: white;
+}
+
+.success-content {
+  text-align: center;
+}
+
+.success-content h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.success-content p {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.success-content img {
+  max-width: 100%;
+  height: auto;
+}
